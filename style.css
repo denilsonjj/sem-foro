@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+main{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items:center ;
+    justify-content: center;
+    gap: 5vh;
+}
+button{
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:rgb(219, 177, 177);
+    box-shadow: 5px 5px 0px;
+}
