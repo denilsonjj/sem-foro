@@ -1,2 +1,2 @@
-Projetinho feito com html, css e Javascript
-um semáforo que acende as luzes vermelho, amarelo e verde, ou fica em looping quando clica no automático.
+Project made with html, css and javascript
+a traffic light that lights up red, yellow and green, or loops when you click on auto.
